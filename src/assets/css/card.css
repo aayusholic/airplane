@@ -1,0 +1,16 @@
+.card-container-light {
+  background-color: white;
+  color: black;
+  display: flex;
+  justify-content: flex;
+  margin: 20px;
+  padding: 15px;
+}
+.card-container-dark {
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: flex;
+  margin: 20px;
+  padding: 15px;
+}

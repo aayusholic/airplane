@@ -1,0 +1,10 @@
+.product-card {
+  border: 1px solid #ccc;
+  padding: 16px;
+  margin: 8px;
+  text-align: center;
+}
+
+.store {
+  margin-top: 32px;
+}
